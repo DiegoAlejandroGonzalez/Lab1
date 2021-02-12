@@ -1,0 +1,3 @@
+Escuela Colombiana de Ingeniería Julio GaravitoPrograma de ingeniería ElectrónicaAlgoritmos en Sistemas Electrónicos (ALSE)Laboratorio 1
+
+Este programa tiene un menu en el cual tiene varias opciones, la programación de este codigo nos permite ingresar una cantidad de valores,encontrar el promedio,mostrar la desviacin estandar,mostrar valores maximos y minimos con una opcion salir del menú, cuando se da un apción la cual no esta en el menú el programa lo envia de nuevo al menú para que pueda escoger  la opción correta.
